@@ -1,2 +1,3 @@
-# Exercicios em C - TP1
- Depositório criado para mostrar a resolução de exercícios de C
+# Exercicios resolvidos em C
+ Sou um estudante num curso de Sistemas de informação e criei este repositório para mostrar a resolução de alguns exercicios que me foram passados, talvez possa ajudar alguém que esteja tendo dificuldades com essa etapa inicial da linguagem.
+ 
