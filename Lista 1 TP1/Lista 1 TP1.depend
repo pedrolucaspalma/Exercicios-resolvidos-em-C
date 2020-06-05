@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584386728 source:e:\downloads\pedro\unirio\projects\lista 1 tp1\exercício 1.c
+	<stdio.h>
+
+1514140574 source:e:\downloads\pedro\unirio\projects\lista 1 tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+
