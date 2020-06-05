@@ -4,4 +4,4 @@ Criei este repositório para mostrar a resolução de alguns exercicios que me f
  
 Cada arquivo .c é um exercício diferente, com o enunciado posto nas primeiras linhas do arquivo em formato de comentário, e, após isso, a resolução.
 
-    Bons estudos!
+OBS: Alguns exercícios utilizam imagens/formulas matematicas/tabelas que não são foram possíveis de incluir nos arquivos, peço desculpas.

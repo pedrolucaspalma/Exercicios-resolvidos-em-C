@@ -5,14 +5,14 @@
 
 int main()
 {
-    int n, m, contador, temporario,valor_atual, resto_por_2;
+    int n, m, contador, temporario,valor_atual, resto_por_2, numero_para_imprimir;
     
     contador = n;
 
     printf("N: ");
-    scanf("%d\n", &n);
+    scanf("%d", &n);
     printf("M: ");
-    scanf("%d\n", &m);
+    scanf("%d", &m);
 
     if( n>m)
     {
@@ -21,15 +21,14 @@ int main()
         n = temporario;
     }
 
-    resto_por_2 = contador % 2;
-
     while (contador <= m)
     {
+        resto_por_2 = contador % 2;
+
         if(resto_por_2 != 0)
         {
-            printf("%d", contador);
+            printf("Imprimindo %d", contador);
         }
         contador++;
     }
-
 }
