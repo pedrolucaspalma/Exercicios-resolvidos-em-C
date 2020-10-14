@@ -5,7 +5,7 @@
 int main(){
 
     int n, i = 1;
-    float h;
+    float h = 0;
 
     printf("Digite N: ");
     scanf("%d", &n);
@@ -20,8 +20,7 @@ int main(){
 
         for(i ;i <= n ; i++){
 
-            h = h + 1/i;
-
+            h = h + 1.0/i;
         }
 
         printf("%f", h);
