@@ -2,8 +2,7 @@
 
 #include <stdio.h>
 
-void main()
-{
+int main() {
     int l, v;
 
     printf("Digite o valor do lado do cubo\n");
